@@ -6,9 +6,10 @@ A list of awesome papers and cool resources on the topoc about adversarial sampl
 
 # Papers with codes
 [CNN-Cert: An Efficient Framework for Certifying Robustness of Convolutional Neural Networks](https://arxiv.org/abs/1811.12395). [<img src="imgs/Octocat_s2.jpg"/>](https://github.com/IBM/CNN-Cert)  
+[Adversarial Attack on Graph Structured Data](https://arxiv.org/abs/1806.02371). [<img src="imgs/Octocat_s2.jpg"/>](https://github.com/Hanjun-Dai/graph_adversarial_attack)
 
 # Papers without codes
-[Adversarial Attack on Graph Structured Data](https://arxiv.org/abs/1806.02371)  
+ 
 [Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/abs/1810.12881)  
 [Attack Graph Convolutional Networks by Adding Fake Nodes](https://arxiv.org/abs/1810.10751)  
 [Adversarially Trained Model Compression: When Robustness Meets Efficiency](https://arxiv.org/abs/1902.03538)  
