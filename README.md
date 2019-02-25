@@ -24,7 +24,6 @@ A list of awesome papers and cool resources on the topoc about adversarial sampl
 # Applications
 ## Recommendation
 [Adversarial Recommendation: Attack of the Learned Fake Users](https://arxiv.org/abs/1809.08336)  
-[Adversarial Personalized Ranking for Recommendation∗]()
 
 ## Social Networks
 [Attacking Similarity-Based Link Prediction in Social Networks](https://arxiv.org/abs/1809.08368)
