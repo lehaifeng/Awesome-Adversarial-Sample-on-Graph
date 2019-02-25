@@ -13,11 +13,15 @@ A list of awesome papers and cool resources on the topoc about adversarial sampl
 [Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/abs/1810.12881)  
 [Attack Graph Convolutional Networks by Adding Fake Nodes](https://arxiv.org/abs/1810.10751)  
 [Adversarially Trained Model Compression: When Robustness Meets Efficiency](https://arxiv.org/abs/1902.03538)  
-
+[Link Prediction Adversarial Attack](https://arxiv.org/abs/1810.01110)
+[Adversarial Attacks on Node Embeddings](https://arxiv.org/abs/1809.01093)
 # Applications
 ## Recommendation
 [Adversarial Recommendation: Attack of the Learned Fake Users](https://arxiv.org/abs/1809.08336)  
 
+
+##
+[GA Based Q-Attack on Community Detection](https://arxiv.org/abs/1811.00430)
 
 # Tutorial 
 TODO
