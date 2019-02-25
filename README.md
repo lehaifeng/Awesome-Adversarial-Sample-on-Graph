@@ -29,9 +29,9 @@ A list of awesome papers and cool resources on the topoc about adversarial sampl
 [Attacking Similarity-Based Link Prediction in Social Networks](https://arxiv.org/abs/1809.08368)
 
 ## QA
-[GA Based Q-Attack on Community Detection](https://arxiv.org/abs/1811.00430)
-[Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models]()
-[Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](http://www.aclweb.org/anthology/P18-1241)
+[GA Based Q-Attack on Community Detection](https://arxiv.org/abs/1811.00430)  
+[Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models](https://nips2018vigil.github.io/static/papers/accepted/33.pdf)  
+[Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](http://www.aclweb.org/anthology/P18-1241)  
 
 # Tutorial 
 TODO
