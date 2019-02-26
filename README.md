@@ -14,7 +14,7 @@ A list of awesome papers and cool resources on the topoc about adversarial sampl
 # Papers without codes (Descending order by Time)
 [Adversarially Trained Model Compression: When Robustness Meets Efficiency](https://arxiv.org/abs/1902.03538)   
 [Adversarial Attacks on Node Embeddings](https://arxiv.org/abs/1809.01093)  
-[Fast Gradient Attack on Network Embedding](https://arxiv.org/abs/1809.02797)
+[Fast Gradient Attack on Network Embedding](https://arxiv.org/abs/1809.02797)  
 [Link Prediction Adversarial Attack](https://arxiv.org/abs/1810.01110)  
 [Attack Graph Convolutional Networks by Adding Fake Nodes](https://arxiv.org/abs/1810.10751)  
 [Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/abs/1810.12881)  
